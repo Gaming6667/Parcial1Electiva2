@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzhd174KHKBbEOqHf+RNraYiPUAvkTvvvzN+gYYyJjLHLGx8tb5ANvAYJrbV58hKQ/XgAxvqI/fuYLmxWw3deA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Melendez\\Desktop\\sistemaParcial\\Parcial\\Parcial\\Parcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Melendez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
